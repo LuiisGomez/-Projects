@@ -10,7 +10,7 @@ package aritmetica;
  * @author luis.gomez
  */
 public class Aritmetica {
-    int sumar(int a, int b){
-        return(a+b);
+    int sumar(int a, int c){
+        return(a+c);
     }
 }
